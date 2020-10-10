@@ -1,0 +1,272 @@
+2020-10-09 22:17:01 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-09 22:17:01 INFO  WebDriverManager:1077 - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2020-10-09 22:17:02 INFO  Downloader:128 - Downloading https://chromedriver.storage.googleapis.com/85.0.4183.87/chromedriver_win32.zip
+2020-10-09 22:17:02 INFO  Downloader:183 - Extracting binary from compressed file chromedriver_win32.zip
+2020-10-09 22:17:02 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-09 22:19:27 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-09 22:19:28 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-09 22:20:59 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-09 22:20:59 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-09 22:23:34 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-09 22:23:34 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-09 22:24:40 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-09 22:24:40 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-09 22:26:44 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-09 22:26:44 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-09 22:28:16 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-09 22:28:16 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-09 22:29:54 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-09 22:29:54 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-09 22:30:53 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-09 22:30:53 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-09 22:33:27 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-09 22:33:27 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-09 22:35:26 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-09 22:35:26 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-09 22:37:58 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-09 22:37:58 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-09 22:39:46 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-09 22:39:46 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-09 22:41:58 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-09 22:41:58 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-09 22:44:55 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-09 22:44:55 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-09 22:47:32 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-09 22:47:32 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-09 22:50:41 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-09 22:50:41 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-09 22:52:58 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-09 22:52:58 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-09 22:53:51 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-09 22:53:51 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-09 22:55:14 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-09 22:55:14 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-09 22:56:09 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-09 22:56:09 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-09 23:35:58 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-09 23:35:58 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-09 23:37:48 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-09 23:37:48 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-09 23:39:46 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-09 23:39:46 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-09 23:41:29 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-09 23:41:29 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-09 23:44:33 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-09 23:44:33 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-09 23:45:54 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-09 23:45:54 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-09 23:47:19 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-09 23:47:19 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-09 23:48:06 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-09 23:48:06 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-09 23:48:47 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-09 23:48:47 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-09 23:50:33 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-09 23:50:33 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-09 23:51:29 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-09 23:51:30 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-10 08:48:00 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-10 08:48:00 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-10 09:02:26 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 09:02:28 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 09:02:28 INFO  Downloader:128 - Downloading https://github.com/mozilla/geckodriver/releases/download/v0.27.0/geckodriver-v0.27.0-win64.zip
+2020-10-10 09:02:30 INFO  Downloader:183 - Extracting binary from compressed file geckodriver-v0.27.0-win64.zip
+2020-10-10 09:02:30 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 09:03:24 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 09:03:25 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 09:03:25 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 09:03:25 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 09:06:15 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 09:06:16 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 09:06:16 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 09:06:16 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 09:08:39 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 09:08:40 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 09:08:40 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 09:08:40 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 09:11:22 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 09:11:23 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 09:11:23 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 09:11:23 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 09:13:54 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 09:13:55 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 09:13:55 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 09:13:55 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 09:24:13 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 09:24:14 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 09:24:14 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 09:24:14 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 09:25:27 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 09:25:28 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 09:25:28 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 09:25:28 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 09:26:40 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 09:26:42 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 09:26:42 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 09:26:42 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 10:38:49 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 10:38:50 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 10:38:50 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 10:38:50 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 10:42:11 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 10:42:12 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 10:42:12 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 10:42:12 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 10:43:38 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 10:43:39 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 10:43:39 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 10:43:39 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 10:45:32 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 10:45:33 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 10:45:33 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 10:45:33 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 10:50:08 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 10:50:09 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 10:50:09 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 10:50:09 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 10:52:42 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 10:52:43 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 10:52:43 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 10:52:43 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 10:56:11 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 10:56:12 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 10:56:12 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 10:56:12 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 10:57:33 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 10:57:34 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 10:57:34 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 10:57:34 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 10:59:59 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 11:00:00 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 11:00:00 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 11:00:00 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 11:03:29 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 11:03:30 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 11:03:30 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 11:03:30 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 11:06:54 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 11:06:56 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 11:06:56 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 11:06:56 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 11:08:42 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 11:08:43 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 11:08:43 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 11:08:43 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 11:10:03 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 11:10:04 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 11:10:04 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 11:10:04 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 11:11:48 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 11:11:50 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 11:11:50 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 11:11:50 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 11:13:20 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 11:13:21 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 11:13:21 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 11:13:21 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 11:15:10 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 11:15:11 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 11:15:11 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 11:15:11 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 11:17:27 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 11:17:28 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 11:17:28 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 11:17:28 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 11:19:15 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 11:19:16 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 11:19:16 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 11:19:16 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 11:21:06 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 11:21:07 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 11:21:07 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 11:21:07 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 11:21:37 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 11:21:38 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 11:21:38 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 11:21:38 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 11:23:32 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-10 11:23:32 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-10 11:25:45 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-10 11:25:45 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-10 11:27:04 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-10 11:27:04 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-10 11:30:03 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-10 11:30:03 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-10 11:32:11 INFO  WebDriverManager:615 - Using chromedriver 85.0.4183.87 (since Google Chrome 85 is installed in your machine)
+2020-10-10 11:32:11 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\admin\.m2\repository\webdriver\chromedriver\win32\85.0.4183.87\chromedriver.exe
+2020-10-10 11:33:57 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 11:33:58 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 11:33:58 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 11:33:58 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 11:40:53 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 11:40:54 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 11:40:54 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 11:40:54 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 11:48:16 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 11:48:17 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 11:48:18 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 11:48:18 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 11:51:23 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 11:51:24 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 11:51:24 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 11:51:24 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 11:53:58 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 11:53:59 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 11:53:59 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 11:53:59 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 11:56:58 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 11:56:59 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 11:56:59 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 11:56:59 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 12:01:00 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 12:01:01 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 12:01:01 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 12:01:01 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 12:03:05 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 12:03:06 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 12:03:06 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 12:03:06 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 12:10:57 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 12:10:59 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 12:10:59 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 12:10:59 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 12:12:35 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 12:12:36 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 12:12:36 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 12:12:36 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 12:14:28 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 12:14:29 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 12:14:29 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 12:14:29 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 12:17:06 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 12:17:07 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 12:17:07 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 12:17:07 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 12:19:44 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 12:19:45 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 12:19:45 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 12:19:45 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 12:21:18 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 12:21:20 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 12:21:20 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 12:21:20 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 12:23:14 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 12:23:15 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 12:23:15 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 12:23:15 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 13:13:03 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 13:13:04 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 13:13:04 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 13:13:04 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 13:15:16 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 13:15:17 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 13:15:17 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 13:15:17 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 13:18:04 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 13:18:05 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 13:18:05 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 13:18:05 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
+2020-10-10 13:20:29 INFO  WebDriverManager:1140 - Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver
+2020-10-10 13:20:30 INFO  WebDriverManager:984 - Latest version of geckodriver is 0.27.0
+2020-10-10 13:20:31 INFO  Downloader:167 - Using binary driver previously downloaded
+2020-10-10 13:20:31 INFO  WebDriverManager:1113 - Exporting webdriver.gecko.driver as C:\Users\admin\.m2\repository\webdriver\geckodriver\win64\0.27.0\geckodriver.exe
